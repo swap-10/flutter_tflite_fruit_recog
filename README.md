@@ -1,16 +1,7 @@
-# fruit_recog_flutter
+# Flutter Tflite Fruit Recognition
+A simple flutter app to recognize images of fruits using Tensorflow lite with Flutter (Dart).
+The images can be clicked by the camera or picked from gallery.
 
-A new Flutter project.
+Inspired by: [On device machine learning](https://medium.com/google-cloud/on-device-machine-learning-train-and-run-tensorflow-lite-models-in-your-flutter-apps-15ea796e5ad4) - [Yashwardhan Deshmukh](https://medium.com/@yaashwardhan)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And: [Real time object detection](https://medium.com/@am15hg/real-time-object-detection-using-new-tensorflow-lite-flutter-support-ea41263e801d) - [Amish Garg](https://medium.com/@am15hg)
